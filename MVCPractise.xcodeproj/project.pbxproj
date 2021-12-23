@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B0F527127626B3700E09194 /* Horror.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0F527027626B3700E09194 /* Horror.swift */; };
+		9B1BAC4227690C8000032C80 /* GameHorrorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1BAC4127690C8000032C80 /* GameHorrorViewController.swift */; };
+		9B1BAC44276922B700032C80 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1BAC43276922B700032C80 /* Favorites.swift */; };
+		9B225E89276BC037002B7619 /* Action.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B225E88276BC037002B7619 /* Action.swift */; };
+		9B22BBCC276E327100252ADD /* GameActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B22BBCB276E327100252ADD /* GameActionViewController.swift */; };
+		9B22BBCE276E507900252ADD /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B22BBCD276E507900252ADD /* FavoritesViewController.swift */; };
+		9B2668B3276A51D7001EC3BF /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2668B2276A51D7001EC3BF /* SelectionViewController.swift */; };
+		9B2A79CD276DF72E00AD2376 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2A79CC276DF72E00AD2376 /* ActionViewController.swift */; };
 		9BC9115F2761197D0034C651 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9115E2761197D0034C651 /* AppDelegate.swift */; };
 		9BC911612761197D0034C651 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC911602761197D0034C651 /* SceneDelegate.swift */; };
-		9BC911632761197D0034C651 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC911622761197D0034C651 /* ViewController.swift */; };
+		9BC911632761197D0034C651 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC911622761197D0034C651 /* StartViewController.swift */; };
 		9BC911662761197D0034C651 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BC911642761197D0034C651 /* Main.storyboard */; };
 		9BC911682761197D0034C651 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BC911672761197D0034C651 /* Assets.xcassets */; };
 		9BC9116B2761197D0034C651 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BC911692761197D0034C651 /* LaunchScreen.storyboard */; };
+		9BC9117327613ABB0034C651 /* HorrorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9117227613ABB0034C651 /* HorrorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B0F527027626B3700E09194 /* Horror.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Horror.swift; sourceTree = "<group>"; };
+		9B1BAC4127690C8000032C80 /* GameHorrorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameHorrorViewController.swift; sourceTree = "<group>"; };
+		9B1BAC43276922B700032C80 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		9B225E88276BC037002B7619 /* Action.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Action.swift; sourceTree = "<group>"; };
+		9B22BBCB276E327100252ADD /* GameActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameActionViewController.swift; sourceTree = "<group>"; };
+		9B22BBCD276E507900252ADD /* FavoritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
+		9B2668B2276A51D7001EC3BF /* SelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
+		9B2A79CC276DF72E00AD2376 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
 		9BC9115B2761197D0034C651 /* MVCPractise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVCPractise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BC9115E2761197D0034C651 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BC911602761197D0034C651 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9BC911622761197D0034C651 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9BC911622761197D0034C651 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		9BC911652761197D0034C651 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9BC911672761197D0034C651 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BC9116A2761197D0034C651 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BC9116C2761197D0034C651 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BC9117227613ABB0034C651 /* HorrorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorrorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +55,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B171BE42774E2BF0069299D /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				9BC9115E2761197D0034C651 /* AppDelegate.swift */,
+				9BC911602761197D0034C651 /* SceneDelegate.swift */,
+			);
+			path = "Supporting files";
+			sourceTree = "<group>";
+		};
+		9B2A79CE276DF79900AD2376 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9B1BAC43276922B700032C80 /* Favorites.swift */,
+				9B0F527027626B3700E09194 /* Horror.swift */,
+				9B225E88276BC037002B7619 /* Action.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9B2A79CF276DF7AD00AD2376 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9B2A79CC276DF72E00AD2376 /* ActionViewController.swift */,
+				9B22BBCD276E507900252ADD /* FavoritesViewController.swift */,
+				9B22BBCB276E327100252ADD /* GameActionViewController.swift */,
+				9B1BAC4127690C8000032C80 /* GameHorrorViewController.swift */,
+				9BC9117227613ABB0034C651 /* HorrorViewController.swift */,
+				9B2668B2276A51D7001EC3BF /* SelectionViewController.swift */,
+				9BC911622761197D0034C651 /* StartViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		9B2A79D0276DF7DD00AD2376 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9BC911642761197D0034C651 /* Main.storyboard */,
+				9BC911692761197D0034C651 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		9BC911522761197D0034C651 = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +116,12 @@
 		9BC9115D2761197D0034C651 /* MVCPractise */ = {
 			isa = PBXGroup;
 			children = (
-				9BC9115E2761197D0034C651 /* AppDelegate.swift */,
-				9BC911602761197D0034C651 /* SceneDelegate.swift */,
-				9BC911622761197D0034C651 /* ViewController.swift */,
-				9BC911642761197D0034C651 /* Main.storyboard */,
 				9BC911672761197D0034C651 /* Assets.xcassets */,
-				9BC911692761197D0034C651 /* LaunchScreen.storyboard */,
+				9B2A79CF276DF7AD00AD2376 /* Controllers */,
 				9BC9116C2761197D0034C651 /* Info.plist */,
+				9B2A79CE276DF79900AD2376 /* Models */,
+				9B171BE42774E2BF0069299D /* Supporting files */,
+				9B2A79D0276DF7DD00AD2376 /* Views */,
 			);
 			path = MVCPractise;
 			sourceTree = "<group>";
@@ -137,9 +196,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BC911632761197D0034C651 /* ViewController.swift in Sources */,
+				9BC911632761197D0034C651 /* StartViewController.swift in Sources */,
+				9B225E89276BC037002B7619 /* Action.swift in Sources */,
 				9BC9115F2761197D0034C651 /* AppDelegate.swift in Sources */,
+				9B1BAC44276922B700032C80 /* Favorites.swift in Sources */,
 				9BC911612761197D0034C651 /* SceneDelegate.swift in Sources */,
+				9B22BBCC276E327100252ADD /* GameActionViewController.swift in Sources */,
+				9B0F527127626B3700E09194 /* Horror.swift in Sources */,
+				9B2A79CD276DF72E00AD2376 /* ActionViewController.swift in Sources */,
+				9B2668B3276A51D7001EC3BF /* SelectionViewController.swift in Sources */,
+				9B1BAC4227690C8000032C80 /* GameHorrorViewController.swift in Sources */,
+				9B22BBCE276E507900252ADD /* FavoritesViewController.swift in Sources */,
+				9BC9117327613ABB0034C651 /* HorrorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
